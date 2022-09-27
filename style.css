@@ -1,0 +1,18 @@
+
+.topnav 
+{
+  z-index:10;
+	overflow: hidden;
+	background-color: aqua;
+	position:fixed;
+	top: 0;
+  width: 100%;
+  }
+  
+.topnav-right 
+  {
+  display: inline;
+  font-size:20px;
+  padding-left:35px;
+  padding-right:35px;
+  }
